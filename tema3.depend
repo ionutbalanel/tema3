@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656929831 source:d:\tekwill\tekwill c cpp\tema3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
